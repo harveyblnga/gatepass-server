@@ -1,5 +1,8 @@
 # Gatepass Server
 
+> For the story behind this project, see the
+> [Gatepass README](https://github.com/hbinamu/gatepass#story).
+
 Minimal in-memory Node.js server for the [Gatepass](https://github.com/hbinamu/gatepass)
 Flutter gate-control prototype. It holds a single shared gate state
 (`idle` or `open_requested`) in memory — no database, no persistence across
