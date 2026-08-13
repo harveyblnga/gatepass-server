@@ -84,6 +84,19 @@ This is a working prototype: no database, no request logging beyond
 allowed). Treat it as a starting point rather than a production-ready
 server.
 
+## Production deployments
+
+This repository is deliberately a prototype — it exists to share and
+open-source the concept.
+
+We also have a hardened version of this architecture designed for
+production and higher-security deployments, where existing gate or
+access-control infrastructure can use GSM as the integration layer.
+
+If you have an existing gate deployment that you'd like to make remotely
+or programmatically accessible, reach out: harvey@blnga.co.zw. We can talk
+through the security model, live deployment, monitoring, and reporting.
+
 ## License
 
 MIT — see [LICENSE](LICENSE).
