@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "Minimal in-memory gate control server for a Flutter prototype.",
   "main": "server.js",
+  "license": "MIT",
   "scripts": {
     "start": "node server.js",
     "dev": "nodemon server.js"
